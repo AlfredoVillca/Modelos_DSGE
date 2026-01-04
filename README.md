@@ -1,2 +1,2 @@
-# modelos_macroeconomicos
+# Modelos_DSGE
 Este es un repositorio de modelos maroeconómicos
